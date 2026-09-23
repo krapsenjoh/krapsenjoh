@@ -1,7 +1,6 @@
-<p align="center"># 👋 Hi, I'm Krapsenjoh</p>
+<h1 align="center">👋 Hi, I'm Krapsenjoh</h1>
 
-## 💻 IT Student | Web Developer | Tech Enthusiast
-
+<h2 align="center">💻 IT Student | Web Developer | Tech Enthusiast</h2>
 
 🚀 Learning, building, and growing one project at a time.
 
