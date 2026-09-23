@@ -1,105 +1,72 @@
-<div align="center">
-👨‍💻 KRAPSENJOH
-IT STUDENT • WEB DEVELOPER • TECH ENTHUSIAST
-<p> <em>Building the web, one line of code at a time.</em> </p> <p> <img src="https://komarev.com/ghpvc/?username=krapsenjoh&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/> </p> </div>
-👋 About Me
+👋 Hi, I'm Krapsenjoh
+💻 IT Student | Web Developer | Tech Enthusiast
 
-I'm Krapsenjoh, an IT student passionate about web development, programming, and technology.
+🚀 Learning, building, and growing one project at a time.
 
-I'm currently focused on developing a strong foundation in frontend development while building practical projects that help me improve my problem-solving and programming skills.
+👨‍💻 About Me
 
-const krapsenjoh = {
-    role: "IT Student & Web Developer",
-    focus: ["HTML", "CSS", "JavaScript"],
-    learning: ["JavaScript", "Responsive Design", "Web Development"],
-    goal: "Become a Full-Stack Developer",
-    mindset: "Learn • Build • Improve"
-};
+I'm Krapsenjoh, an IT student passionate about web development and technology.
 
-💻 Tech Stack
-Frontend Development
-<p> <img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend Technologies"/> </p>
-Tools & Platforms
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools"/> </p>
-🌐 Languages
-Technology	Level
-🟠 HTML5	Learning & Building
-🔵 CSS3	Learning & Building
-🟡 JavaScript	Currently Learning
-🟣 Git	Learning & Practicing
-🚀 What I'm Currently Doing
+I'm currently focused on learning and building projects using HTML, CSS, and JavaScript. I enjoy creating websites, experimenting with new ideas, and improving my programming skills through practical projects.
 
-🌱 Improving my JavaScript skills
+🎓 IT Student
 
-🎨 Building responsive websites with HTML & CSS
+🌐 Aspiring Web Developer
 
-🧠 Strengthening my programming fundamentals
+💻 Currently learning HTML, CSS & JavaScript
 
-🔧 Practicing Git & GitHub
+🌱 Always learning something new
 
-💡 Creating projects to apply what I learn
+🔨 Building projects to improve my skills
 
-📚 Exploring modern web development technologies
+🎯 Goal: Become a Full-Stack Developer
 
-📊 GitHub Statistics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=krapsenjoh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krapsenjoh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/> </div>
-🔥 Contribution Streak
-<div align="center"> <img src="https://streak-stats.demolab.com?user=krapsenjoh&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/> </div>
-🎯 My Development Journey
-HTML & CSS
-    │
-    ▼
+🛠️ Tech Stack
+Languages
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML CSS JavaScript" /> </p>
+Tools
+<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git GitHub VS Code" /> </p>
+📚 Currently Learning
+
+HTML5
+
+CSS3
+
 JavaScript
-    │
-    ▼
-Responsive Web Development
-    │
-    ▼
-Frontend Frameworks
-    │
-    ▼
-Backend Development
-    │
-    ▼
-Full-Stack Developer 🚀
 
-📌 2026 Goals
+Responsive Web Design
 
- Master HTML & CSS
+Git & GitHub
 
- Become confident with JavaScript
+Modern Web Development
 
- Build several real-world web projects
+🚀 My Goals
 
- Create my personal developer portfolio
+ Improve my JavaScript skills
 
- Learn a modern frontend framework
+ Build more real-world projects
 
- Start learning backend development
+ Create my personal portfolio
+
+ Learn a frontend framework
+
+ Learn backend development
 
  Contribute to open-source projects
 
- Grow as a professional developer
+ Become a Full-Stack Developer
 
-🏗️ Featured Projects
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=krapsenjoh&show_icons=true&theme=tokyonight&hide_border=true" alt="Krapsenjoh GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krapsenjoh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> </p>
+🔥 GitHub Streak
+<p align="center"> <img src="https://streak-stats.demolab.com?user=krapsenjoh&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p>
+🌐 Connect With Me
+<p align="left"> <a href="https://github.com/krapsenjoh"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </p>
+💡 Developer Mindset
 
-🚧 I'm currently building my project portfolio.
+Learn → Build → Break → Fix → Improve
 
-More projects will be added here as I continue my development journey.
+I believe the best way to become a better developer is to keep building and learning from every project.
 
-💡 Developer Philosophy
-
-"Don't just learn to code. Learn to build."
-
-I believe that the best way to improve as a developer is to learn, build, make mistakes, solve problems, and keep improving.
-
-🤝 Let's Connect
-
-I'm always interested in learning, collaborating, and connecting with other developers and technology enthusiasts.
-
-<div align="center">
-🚀 Learn. Build. Improve. Repeat.
-
-Thanks for visiting my profile! ⭐
-
-</div>
+⭐ Thanks for Visiting!
+<p align="center"> <b>Keep coding. Keep learning. Keep building. 🚀</b> </p>
