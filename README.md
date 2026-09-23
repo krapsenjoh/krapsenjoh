@@ -11,17 +11,12 @@ I'm Krapsenjoh, an IT student passionate about web development and technology.
 
 I'm currently focused on learning and building projects using HTML, CSS, and JavaScript. I enjoy creating websites, experimenting with new ideas, and improving my programming skills through practical projects.
 
-🎓 IT Student
-
-🌐 Aspiring Web Developer
-
-💻 Currently learning HTML, CSS & JavaScript
-
-🌱 Always learning something new
-
-🔨 Building projects to improve my skills
-
-🎯 Goal: Become a Full-Stack Developer
+-🎓 IT Student
+-🌐 Aspiring Web Developer
+-💻 Currently learning HTML, CSS & JavaScript
+-🌱 Always learning something new
+-🔨 Building projects to improve my skills
+-🎯 Goal: Become a Full-Stack Developer
 
 🛠️ Tech Stack
 Languages
