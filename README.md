@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Krapsenjoh
+<p align="center"># 👋 Hi, I'm Krapsenjoh</p>
 
 ## 💻 IT Student | Web Developer | Tech Enthusiast
 
@@ -8,7 +8,6 @@
 👨‍💻 About Me
 
 I'm Krapsenjoh, an IT student passionate about web development and technology.
-
 I'm currently focused on learning and building projects using HTML, CSS, and JavaScript. I enjoy creating websites, experimenting with new ideas, and improving my programming skills through practical projects.
 
 - 🎓 IT Student
@@ -25,33 +24,22 @@ Tools
 <p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git GitHub VS Code" /> </p>
 📚 Currently Learning
 
-HTML5
-
-CSS3
-
-JavaScript
-
-Responsive Web Design
-
-Git & GitHub
-
-Modern Web Development
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Web Design
+- Git & GitHub
+- Modern Web Development
 
 🚀 My Goals
 
- Improve my JavaScript skills
-
- Build more real-world projects
-
- Create my personal portfolio
-
- Learn a frontend framework
-
- Learn backend development
-
- Contribute to open-source projects
-
- Become a Full-Stack Developer
+ - Improve my JavaScript skills
+ - Build more real-world projects
+ - Create my personal portfolio
+ - Learn a frontend framework
+ - Learn backend development
+ - Contribute to open-source projects
+ - Become a Full-Stack Developer
 
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=krapsenjoh&show_icons=true&theme=tokyonight&hide_border=true" alt="Krapsenjoh GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krapsenjoh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> </p>
