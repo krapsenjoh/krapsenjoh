@@ -1,4 +1,4 @@
-#👋 Hi, I'm Krapsenjoh
+# 👋 Hi, I'm Krapsenjoh
 ## 💻 IT Student | Web Developer | Tech Enthusiast
 
 🚀 Learning, building, and growing one project at a time.
