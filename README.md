@@ -1,5 +1,7 @@
 <h1 align="center">👋 Hi, I'm Krapsenjoh</h1>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Full+Stack+Web+Developer;IT+Student;Building+Real+World+Applications;Always+Learning+New+Things&center=true&width=550&height=50">
+</p>
 <h2 align="center">💻 IT Student | Web Developer | Tech Enthusiast</h2>
 
 🚀 Learning, building, and growing one project at a time.
